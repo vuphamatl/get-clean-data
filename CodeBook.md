@@ -1,13 +1,7 @@
 # Identifiers
 
 - SubjectID: the participant's ID number
-- Activity: what the participant was doing when the measurements were taken
--- WALKING
--- WALKING_UPSTAIRS
--- WALKING_DOWNSTAIRS
--- SITTING
--- STANDING
--- LAYING
+- Activity: what the participant was doing when the measurements were taken (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, or LAYING)
 
 # Measurements
 
